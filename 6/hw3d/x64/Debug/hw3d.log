@@ -1,0 +1,5 @@
+﻿  WinMain.cpp
+  Window.cpp
+  WindowsMessageMap.cpp
+C:\Users\TriBlackInferno\Downloads\6\hw3d\WinMain.cpp(28,12): warning C4244: 'return': conversion from 'WPARAM' to 'int', possible loss of data
+  hw3d.vcxproj -> C:\Users\TriBlackInferno\Downloads\6\x64\Debug\hw3d.exe
